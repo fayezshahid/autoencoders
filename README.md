@@ -39,7 +39,7 @@ A comprehensive implementation and evaluation of three autoencoder architectures
 - Adjusted Rand Index and Normalized Mutual Information
 
 ## Dataset & Models
-Access the complete dataset and trained models: [Google Drive](https://drive.google.com/drive/folders/1jmdH-T0Hd1hPILRGIt3QDq5QVjWJDkTk?usp=sharing)
+Access the complete dataset and trained models: [Google Drive](https://drive.google.com/drive/folders/1BR_qYkaEQ1xehnxwd1LedI2IBF9tOS4l?usp=sharing)
 
 ## Usage
 

@@ -50,6 +50,7 @@ python train.py --data_dir casia-webface --epochs 50 --batch_size 512 --models c
 
 ### Evaluation
 Run the `evaluate.ipynb` notebook for comprehensive model evaluation and visualization.
+Download the models folder from the link above and move it to the root directory of this project.
 
 ## Requirements
 - TensorFlow/Keras
